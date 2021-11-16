@@ -1,0 +1,2 @@
+ataque-cerebrovascular
+no-ataque-cerebrovascular
